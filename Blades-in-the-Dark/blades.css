@@ -590,7 +590,7 @@ input.sheet-connector-check[type="checkbox"]:checked + span::before
     width: 30px;
     height: 20px;
     background: #cccccc;
-    z-index: -1;
+    z-index: 0;
     border: 1px 0px 1px 0px;
     position: relative;
     left: -1px;
